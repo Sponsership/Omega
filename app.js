@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyAj5XQIX-rqziAJlya0XskjVneq49vcIgA",
+  authDomain: "instafollowers-ecm.firebaseapp.com",
+  databaseURL: "https://instafollowers-ecm.firebaseio.com",
+  projectId: "instafollowers-ecm",
+  storageBucket: "instafollowers-ecm.appspot.com",
+  messagingSenderId: "705899969473",
+  appId: "1:705899969473:web:f055f2c2c583f6e7bc0d40",
+  measurementId: "G-BXWYHC6THG"
 };
 
      

@@ -3,17 +3,17 @@
 
 ///Edit Under This only
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAj5XQIX-rqziAJlya0XskjVneq49vcIgA",
-  authDomain: "instafollowers-ecm.firebaseapp.com",
-  databaseURL: "https://instafollowers-ecm.firebaseio.com",
-  projectId: "instafollowers-ecm",
-  storageBucket: "instafollowers-ecm.appspot.com",
-  messagingSenderId: "705899969473",
-  appId: "1:705899969473:web:f055f2c2c583f6e7bc0d40",
-  measurementId: "G-BXWYHC6THG"
+  apiKey: "AIzaSyC-eMxaSJnPotxGCxU9Hkm4LeamYH03j1E",
+  authDomain: "store-71e2.firebaseapp.com",
+  databaseURL: "https://store-71e2.firebaseio.com",
+  projectId: "store-71e2",
+  storageBucket: "store-71e2.appspot.com",
+  messagingSenderId: "672931521096",
+  appId: "1:672931521096:web:ce034d28aebeab892bee7d",
+  measurementId: "G-GTKGLSB151"
 };
-
      
  
 ////Do Not Edit Below This
